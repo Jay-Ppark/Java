@@ -1,0 +1,68 @@
+{
+  "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre1.8.0_121\\lib\\rt.jar\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\3rd-week.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\3rd-week.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\3rd-week.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\4th-week.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\4th-week.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\4th-week.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\HW4_12161575.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\HW4_12161575.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\HW4_12161575.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\5th-week.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\5th-week.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\5th-week.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\HW5_12161575.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\HW5_12161575.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\HW5_12161575.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\6th-week.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\6th-week.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\6th-week.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\6th-week1.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\6th-week1.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\6th-week1.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\HW6_12161575.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\HW6_12161575.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\HW6_12161575.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\testforMidterm.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\testforMidterm.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\testforMidterm.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\12th-week.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\12th-week.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\12th-week.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\13th-week.java\\src": {
+    "location": "D:\\CSE2701001\\workspace\\13th-week.java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\13th-week.java\\src\u0027. Skipped."
+  },
+  "D:\\CSE2701001\\workspace\\FinalProject\\src": {
+    "location": "D:\\CSE2701001\\workspace\\FinalProject\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\CSE2701001\\workspace\\FinalProject\\src\u0027. Skipped."
+  }
+}

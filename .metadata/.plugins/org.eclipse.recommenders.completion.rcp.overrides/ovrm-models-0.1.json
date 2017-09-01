@@ -1,0 +1,8 @@
+{
+  "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:ovrm:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "Could not transfer artifact jre:jre:zip:ovrm:1.0.0 from/to remote-models (http://download.eclipse.org/recommenders/models/kepler/): Error transferring file: null to http://download.eclipse.org/recommenders/models/kepler/jre/jre/1.0.0/jre-1.0.0-ovrm.zip"
+  }
+}
